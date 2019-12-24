@@ -17,7 +17,7 @@ For React 15 and Material-UI 0.15 please use version 3 and above.
 
 ```javascript
 import React from 'react';
-import IconButton from 'material-ui/lib/icon-button';
+import IconButton from '@material-ui/core/IconButton';
 
 import {
   Icon_Flag_TR,
