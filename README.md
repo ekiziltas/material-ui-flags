@@ -39,24 +39,3 @@ class MyComponent extends React.Component
 }
 
 ```
-
-For more information:
-
-For list of icons refer to [the src folder](src/).
-
-* [Live demo](http://universal-relay-boilerplate.herokuapp.com/mui/icons_country_flags).
-
-* [Source Code](https://github.com/codefoundries/UniversalRelayBoilerplate/blob/master/units/starter-kit-example-mui/webapp/components/MUI_Icons_CountryFlags.jsx) of live demo.
-
-
-## Contributing
-
-All existing icons are modified versions of icons from [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css/tree/master/flags/4x3). An eventual goal of the project would be to have all of those SVG files converted to Material-UI icons.
-
-In lieu of a formal styleguide, take care to maintain the existing coding style.
-Check out [existing issues and help wanted](https://github.com/codefoundries/material-ui-country-flags/issues).
-
-
-## Release History
-
-[Releases on Github project](https://github.com/codefoundries/material-ui-country-flags/releases/).
