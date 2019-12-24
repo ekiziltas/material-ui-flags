@@ -1,10 +1,10 @@
 'use strict';
 
 /**
- * material-ui-country-flags
- * https://github.com/codefoundries/material-ui-country-flags
+ * material-ui-flags
+ * https://github.com/ekiziltas/material-ui-flags.git
  *
- * Copyright (c) 2016 Aleksandar Chalakov
+ * Copyright (c) 2019 Eray KIZILTAS
  * Licensed under the MIT license.
  */
 
@@ -18,3 +18,4 @@
  export Icon_Flag_IN from './Icon_Flag_IN';
  export Icon_Flag_RU from './Icon_Flag_RU';
  export Icon_Flag_US from './Icon_Flag_US';
+ export Icon_Flag_TR from './Icon_Flag_TR';
