@@ -20,7 +20,8 @@ import React from 'react';
 import IconButton from 'material-ui/lib/icon-button';
 
 import {
-  Icon_Flag_BG,
+  Icon_Flag_TR,
+  Icon_Flag_DE,
   Icon_Flag_US
 } from 'material-ui-flags';
 
