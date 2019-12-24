@@ -1,0 +1,51 @@
+{
+  "name": "material-ui-country-flags",
+  "version": "3.0.1",
+  "description": "Country flag icons for Material-UI",
+  "main": "lib/index.js",
+  "standalone": "CountryFlags",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codefoundries/material-ui-country-flags.git"
+  },
+  "keywords": [
+    "material-ui",
+    "react",
+    "country",
+    "flag",
+    "flags",
+    "language",
+    "internationalization",
+    "country flags"
+  ],
+  "author": "Aleksandar Chalakov <a.chalakov@coefoundries.com> (http://codefoundries.com/)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/codefoundries/material-ui-country-flags/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/codefoundries/material-ui-country-flags/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+  },
+  "devDependencies": {
+    "babel-cli": "^6.7.7",
+    "babel-polyfill": "^6.7.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "material-ui": "~0.15.0-beta.2",
+    "react": "~15.0.1",
+    "react-dom": "~15.0.1",
+    "react-tap-event-plugin": "^1.0.0",
+    "tape": "^4.5.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "compile": "babel -sd lib/ src/",
+    "prepublish": "npm run compile"
+  }
+}
