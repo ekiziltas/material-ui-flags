@@ -9,7 +9,7 @@ import SvgIcon from '@material-ui/core/SvgIcon';
 export default function (props) {
   return (
     <SvgIcon viewBox="0 0 640 480" {...props}>
-      <g fill-rule="evenodd" strokeWidth="1pt">
+      <g fillRule="evenodd" strokeWidth="1pt">
         <path fill="#e30a17" d="M0 0h640v480H0z"/>
         <path fill="#fff"
               d="M407 247.5c0 66.2-54.6 119.9-122 119.9s-122-53.7-122-120 54.6-119.8 122-119.8 122 53.7 122 119.9z"/>

@@ -10,7 +10,7 @@ export default function( props )
 {
   return(
     <SvgIcon viewBox="0 0 640 480" {...props}>
-      <g fill-rule="evenodd" strokeWidth="1pt">
+      <g fillRule="evenodd" strokeWidth="1pt">
         <path fill="#ffe600" d="M0 320h640v160.002H0z"/>
         <path d="M0 0h640v160H0z"/>
         <path fill="red" d="M0 160h640v160H0z"/>

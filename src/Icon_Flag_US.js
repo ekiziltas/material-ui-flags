@@ -15,7 +15,7 @@ export default function( props )
         <rect id="rect4295" fillOpacity="0.67" height="512" width="682.67" y=".0000052307" x="0"/>
        </clipPath>
       </defs>
-      <g id="flag" fill-rule="evenodd" clipPath="url(#clipPath4293)" transform="matrix(.93750 0 0 .93750 0 -.0000049038)">
+      <g id="flag" fillRule="evenodd" clipPath="url(#clipPath4293)" transform="matrix(.93750 0 0 .93750 0 -.0000049038)">
        <g id="g390" strokeWidth="1pt" transform="matrix(3.9385 0 0 3.9385 0 .000005)">
         <g id="g169" fill="#bd3d44">
        <rect id="rect156" height="10" width="247" y="0" x="0"/>
