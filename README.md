@@ -1,4 +1,4 @@
-material-ui-country-flags
+material-ui-flags
 =========================
 
 Library with country flag icons for [Material-UI](http://www.material-ui.com/#/). 
