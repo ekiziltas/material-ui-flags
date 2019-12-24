@@ -1,12 +1,11 @@
 material-ui-country-flags
 =========================
 
-Library with country flag icons for [Material-UI](http://www.material-ui.com/#/). Initially created for use in [Universal Relay Boilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate) by [Code Foundries](http://codefoundries.com/).
-
+Library with country flag icons for [Material-UI](http://www.material-ui.com/#/). 
 ## Installation
 
 ```shell
-  npm install material-ui-country-flags --save
+  npm install material-ui-flags --save
 ```
 
 ## Versions
@@ -23,7 +22,7 @@ import IconButton from 'material-ui/lib/icon-button';
 import {
   Icon_Flag_BG,
   Icon_Flag_US
-} from 'material-ui-country-flags';
+} from 'material-ui-flags';
 
 class MyComponent extends React.Component
 {
@@ -31,7 +30,8 @@ class MyComponent extends React.Component
   {
     return(
       <div>
-        <IconButton><Icon_Flag_BG /></IconButton>
+        <IconButton><Icon_Flag_TR /></IconButton>
+        <IconButton><Icon_Flag_DE /></IconButton>
         <IconButton><Icon_Flag_US /></IconButton>
       </div>
     );
