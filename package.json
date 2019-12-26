@@ -1,12 +1,12 @@
 {
   "name": "material-ui-flags",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Flag icons for Material-UI",
   "main": "lib/index.js",
   "standalone": "Flags",
   "repository": {
     "type": "git",
-    "url": "git://github.com/codefoundries/material-ui-flags.git"
+    "url": "https://github.com/ekiziltas/material-ui-flags.git"
   },
   "keywords": [
     "material-ui",
@@ -22,11 +22,11 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/codefoundries/material-ui-country-flags/blob/master/LICENSE-MIT"
+      "url": "https://github.com/ekiziltas/material-ui-flags/blob/master/LICENSE-MIT"
     }
   ],
   "bugs": {
-    "url": "https://github.com/codefoundries/material-ui-flags/issues"
+    "url": "https://github.com/ekiziltas/material-ui-flags/issues"
   },
   "dependencies": {},
   "peerDependencies": {},

@@ -5,7 +5,9 @@ Library with country flag icons for [Material-UI](http://www.material-ui.com/#/)
 ## Installation
 
 ```shell
-  npm install material-ui-flags --save
+  npm install material-ui-flags
+  
+  yarn add material-ui-flags
 ```
 
 ## Versions
@@ -20,9 +22,9 @@ import React from 'react';
 import IconButton from '@material-ui/core/IconButton';
 
 import {
-  Icon_Flag_TR,
-  Icon_Flag_DE,
-  Icon_Flag_US
+    IconFlagTR,
+    IconFlagDE,
+    IconFlagUS
 } from 'material-ui-flags';
 
 class MyComponent extends React.Component
@@ -31,9 +33,9 @@ class MyComponent extends React.Component
   {
     return(
       <div>
-        <IconButton><Icon_Flag_TR /></IconButton>
-        <IconButton><Icon_Flag_DE /></IconButton>
-        <IconButton><Icon_Flag_US /></IconButton>
+        <IconButton><IconFlagTR /></IconButton>
+        <IconButton><IconFlagDE /></IconButton>
+        <IconButton><IconFlagUS /></IconButton>
       </div>
     );
   }
