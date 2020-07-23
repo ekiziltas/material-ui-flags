@@ -1,0 +1,25 @@
+'use strict';
+
+import React from 'react';
+import SvgIcon from '@material-ui/core/SvgIcon';
+
+// SVG source:
+// https://github.com/lipis/flag-icon-css/tree/master/flags/4x3
+
+export default function (props) {
+  return (
+    <SvgIcon viewBox="0 0 640 480" {...props}>
+      <defs>
+        <clipPath id="cg-a">
+          <path fill-opacity=".7" d="M-79.5 32h640v480h-640z" />
+        </clipPath>
+      </defs>
+      <g fill-rule="evenodd" stroke-width="1pt" clip-path="url(#cg-a)" transform="translate(79.5 -32)">
+        <path fill="#ff0" d="M-119.5 32h720v480h-720z" />
+        <path fill="#00ca00" d="M-119.5 32v480l480-480h-480z" />
+        <path fill="red" d="M120.5 512h480V32l-480 480z" />
+      </g>
+    </SvgIcon>
+  )
+}
+

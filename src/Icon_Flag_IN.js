@@ -36,13 +36,12 @@ Possibly re-evaluate with React 15
 
 */
 
-export default function( props )
-{
-  return(
+export default function (props) {
+  return (
     <SvgIcon viewBox="0 0 640 480" {...props}>
-      <path fill="#f93" d="M0 0h640v160H0z"/>
-      <path fill="#fff" d="M0 160h640v160H0z"/>
-      <path fill="#128807" d="M0 320h640v160H0z"/>
+      <path fill="#f93" d="M0 0h640v160H0z" />
+      <path fill="#fff" d="M0 160h640v160H0z" />
+      <path fill="#128807" d="M0 320h640v160H0z" />
     </SvgIcon>
   )
 }
