@@ -19,3 +19,4 @@
  export IconFlagRU from './Icon_Flag_RU';
  export IconFlagUS from './Icon_Flag_US';
  export IconFlagTR from './Icon_Flag_TR';
+ export IconFlagES from './Icon_Flag_ES';
