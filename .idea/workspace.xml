@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="085468ab-f100-47d9-82f8-e343c63b4da7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/public/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/CustomerDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/Customers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/registerServiceWorker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lib/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Icon_Flag_CA.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Icon_Flag_CA.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Icon_Flag_CN.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Icon_Flag_CN.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Icon_Flag_TR.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Icon_Flag_TR.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +81,7 @@
       <workItem from="1577177502191" duration="9060000" />
       <workItem from="1577196617906" duration="1197000" />
       <workItem from="1577345335822" duration="875000" />
-      <workItem from="1600726593024" duration="7393000" />
+      <workItem from="1600726593024" duration="7488000" />
     </task>
     <servers />
   </component>
