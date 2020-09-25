@@ -1,6 +1,6 @@
 {
   "name": "material-ui-flags",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Flag icons for Material-UI",
   "main": "lib/index.js",
   "standalone": "Flags",
