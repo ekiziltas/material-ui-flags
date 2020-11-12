@@ -41,12 +41,14 @@ Install all the npm packages. Go into the project folder and type the following 
 
 ```bash
 npm install
+yarn install
 ```
 
 In order to run the application Type the following command
 
 ```bash
 npm start
+yarn start
 ```
 
 The Application Runs on **localhost:3000**
