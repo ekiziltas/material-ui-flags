@@ -5,7 +5,6 @@
   "homepage": "https://aditya-sridhar.github.io/simple-reactjs-app",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
-    "axios": "^0.18.0",
     "material-ui-flags": "^1.0.8",
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",

@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "sources": [
+    "../src/Icon_Flag_EU.js"
+  ],
+  "names": [
+    "props"
+  ],
+  "mappings": "AAAA;;;;;;;;AAKA;AACA;;kBAEe,UAAUA,KAAV,EAAiB;AAC9B,SACE;AAAC,qBAAD;AAAA,eAAS,SAAQ,aAAjB,IAAmCA,KAAnC;AACE;AAAA;AAAA;AACE;AAAA;AAAA,UAAG,IAAG,GAAN;AACE;AAAA;AAAA,YAAG,IAAG,GAAN;AACE,kDAAM,IAAG,GAAT,EAAa,GAAE,aAAf,EAA6B,WAAU,2BAAvC,GADF;AAEE,iDAAK,WAAU,IAAf,EAAoB,WAAU,aAA9B;AAFF,SADF;AAKE;AAAA;AAAA,YAAG,IAAG,GAAN;AACE,iDAAK,WAAU,IAAf,EAAoB,WAAU,YAA9B,GADF;AAEE,iDAAK,WAAU,IAAf,EAAoB,WAAU,aAA9B;AAFF,SALF;AASE,+CAAK,WAAU,IAAf,EAAoB,WAAU,aAA9B;AATF;AADF,KADF;AAcE,4CAAM,MAAK,MAAX,EAAkB,OAAM,KAAxB,EAA8B,QAAO,KAArC,GAdF;AAeE;AAAA;AAAA,QAAG,MAAK,MAAR,EAAe,WAAU,4BAAzB;AACE,6CAAK,WAAU,IAAf,EAAoB,GAAE,IAAtB,GADF;AAEE,6CAAK,WAAU,IAAf,EAAoB,GAAE,GAAtB,GAFF;AAGE;AAAA;AAAA,UAAG,IAAG,GAAN;AACE,+CAAK,WAAU,IAAf,EAAoB,GAAE,IAAtB,GADF;AAEE,+CAAK,WAAU,IAAf,EAAoB,WAAU,qCAA9B,GAFF;AAGE,+CAAK,WAAU,IAAf,EAAoB,WAAU,qCAA9B,GAHF;AAIE,+CAAK,WAAU,IAAf,EAAoB,WAAU,oCAA9B,GAJF;AAKE,+CAAK,WAAU,IAAf,EAAoB,WAAU,oCAA9B;AALF,OAHF;AAUE,6CAAK,WAAU,IAAf,EAAoB,WAAU,aAA9B;AAVF;AAfF,GADF;AA8BD,C;;AArCD;;;;AACA",
+  "file": "Icon_Flag_EU.js",
+  "sourcesContent": [
+    "'use strict';\n\nimport React from 'react';\nimport SvgIcon from '@material-ui/core/SvgIcon';\n\n// SVG source:\n// https://github.com/lipis/flag-icon-css/tree/master/flags/4x3\n\nexport default function (props) {\n  return (\n    <SvgIcon viewBox=\"0 0 810 540\" {...props}>\n      <defs>\n        <g id=\"s\">\n          <g id=\"c\">\n            <path id=\"t\" d=\"M0,0v1h0.5z\" transform=\"translate(0,-1)rotate(18)\"/>\n            <use xlinkHref=\"#t\" transform=\"scale(-1,1)\"/>\n          </g>\n          <g id=\"a\">\n            <use xlinkHref=\"#c\" transform=\"rotate(72)\"/>\n            <use xlinkHref=\"#c\" transform=\"rotate(144)\"/>\n          </g>\n          <use xlinkHref=\"#a\" transform=\"scale(-1,1)\"/>\n        </g>\n      </defs>\n      <rect fill=\"#039\" width=\"810\" height=\"540\"/>\n      <g fill=\"#fc0\" transform=\"scale(30)translate(13.5,9)\">\n        <use xlinkHref=\"#s\" y=\"-6\"/>\n        <use xlinkHref=\"#s\" y=\"6\"/>\n        <g id=\"l\">\n          <use xlinkHref=\"#s\" x=\"-6\"/>\n          <use xlinkHref=\"#s\" transform=\"rotate(150)translate(0,6)rotate(66)\"/>\n          <use xlinkHref=\"#s\" transform=\"rotate(120)translate(0,6)rotate(24)\"/>\n          <use xlinkHref=\"#s\" transform=\"rotate(60)translate(0,6)rotate(12)\"/>\n          <use xlinkHref=\"#s\" transform=\"rotate(30)translate(0,6)rotate(42)\"/>\n        </g>\n        <use xlinkHref=\"#l\" transform=\"scale(-1,1)\"/>\n      </g>\n    </SvgIcon>\n  )\n}\n"
+  ]
+}
